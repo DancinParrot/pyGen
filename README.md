@@ -6,5 +6,4 @@
 
 A Python password generator with a GUI, made possible with ElectronJS.
 
-## Table of Contents
 
