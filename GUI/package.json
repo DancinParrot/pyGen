@@ -1,5 +1,5 @@
 {
-  "name": "pypass",
+  "name": "pygen",
   "version": "1.0.0",
   "description": "A python password generator with a GUI",
   "main": "main.js",
