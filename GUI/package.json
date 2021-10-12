@@ -9,7 +9,7 @@
   "author": "DancinComrade",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.4.0",
+    "electron": "^11.5.0",
     "python-shell": "^2.0.1"
   }
 }
